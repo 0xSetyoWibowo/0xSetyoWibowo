@@ -3,7 +3,7 @@
 session_start();
 
 // Kata sandi untuk akses, sangat disarankan untuk mengubahnya
-$password = 'ainyakerenbos';
+$password = 'sec@1337';
 
 // Fungsi untuk membersihkan input dan mencegah serangan XSS
 function clean_input($data) {
